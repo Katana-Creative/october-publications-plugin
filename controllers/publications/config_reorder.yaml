@@ -1,0 +1,4 @@
+title: Publications
+modelClass: Katana\Publications\Models\Publications
+toolbar:
+    buttons: reorder_toolbar

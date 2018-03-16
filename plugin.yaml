@@ -1,0 +1,11 @@
+plugin:
+    name: 'katana.publications::lang.plugin.name'
+    description: 'katana.publications::lang.plugin.description'
+    author: Katana
+    icon: oc-icon-book
+    homepage: ''
+navigation:
+    publications:
+        label: 'katana.publications::lang.plugin.name'
+        url: katana/publications/publications
+        icon: icon-book

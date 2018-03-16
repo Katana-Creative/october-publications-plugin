@@ -1,0 +1,11 @@
+1.0.1:
+    - 'Initialize plugin.'
+1.0.2:
+    - 'Created table katana_publications_'
+    - builder_table_create_katana_publications_.php
+1.0.3:
+    - 'Updated table katana_publications_'
+    - builder_table_update_katana_publications_.php
+1.0.4:
+    - 'Updated table katana_publications_'
+    - builder_table_update_katana_publications__2.php

@@ -1,0 +1,11 @@
+name: Publications
+modelClass: Katana\Publications\Models\Publications
+form: $/katana/publications/models/publications/fields.yaml
+defaultRedirect: katana/publications/publications
+create:
+    redirect: 'katana/publications/publications/update/:id'
+    redirectClose: katana/publications/publications
+update:
+    redirect: katana/publications/publications
+    redirectClose: katana/publications/publications
+preview: {  }

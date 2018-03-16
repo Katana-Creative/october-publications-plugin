@@ -1,0 +1,4 @@
+columns:
+    title:
+        label: 'Publication Title'
+        type: text
